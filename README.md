@@ -1,5 +1,14 @@
 # 🎧 Style Cast
 
+This site it's going to be a web page coded with ReactJs and styled with Sass extensions.
+
+`v 0.0.0`
+
+![Images of Site](/assets/image/screen-v1.png)
+
+
+------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
