@@ -1,13 +1,14 @@
-# 🎧 Style Cast
+<!--Sass styled site- now we can call for the pizza :D -->
+# STYLE-CAST
 
-This site it's going to be a web page coded with ReactJs and styled with Sass extensions.
+*...*
 
 `v 0.0.0`
 
-![Images of Site](/assets/image/screen-v1.png)
-
+![Image of Screen](/src/assets/img/scree/scren-v0.png)
 
 ------
+
 
 # Getting Started with Create React App
 
