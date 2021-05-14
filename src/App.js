@@ -1,12 +1,13 @@
+import React from "react";
 import logo from './logo.svg';
 import './App.css';
 
-import "../css/reset.css";
+///import "../css/reset.css";
 
 function App() {
   return (
     <div className="App">
-    <Text>Style-Cast</Text>
+    <text>Style-Cast</text>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p className="App-Text">
