@@ -5,7 +5,7 @@
 
 `v 0.0.0`
 
-![Image of Screen](/src/assets/img/scree/scren-v0.png)
+![Image of Screen](/src/assets/img/screen/screen-v0.png)
 
 ------
 
