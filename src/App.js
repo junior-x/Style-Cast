@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
     <text>Style-Cast</text>
-    <img src={iconcast} className="#"/>
+    <img src={iconcast} className="App-Cast"/>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p className="App-Text">
