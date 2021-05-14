@@ -10,6 +10,7 @@ function App() {
     <div className="App">
     <text>Style-Cast</text>
     <img src={iconcast} className="App-Cast"/>
+      <text className="App-LineMenu">Button    Button    Button</text>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p className="App-Text">
@@ -24,6 +25,8 @@ function App() {
           Learn React
         </a>
       </header>
+      <div>
+      </div>
     </div>
   );
 }
