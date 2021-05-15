@@ -1,7 +1,7 @@
 <!--Sass styled site- now we can call for the pizza :D -->
 # STYLE-CAST
 
-*...*
+*Sculping some basics blocks for the visuals contentc and functions.*
 
 `v 0.0.0`
 
